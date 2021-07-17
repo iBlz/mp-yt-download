@@ -19,4 +19,5 @@ Ubuntu 20.04
 ./update.sh
 ```
 > `WARNING` : If there is `emojis` or `special characters` in the videos titles the video will not be renamed!
+> 
 > `To Run` : python3 YtPlaylistDownload.py
