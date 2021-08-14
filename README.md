@@ -1,9 +1,9 @@
 # MP Youtube Download
-## Download MP4 & MP3 Videos From A Youtube Playlist
+## Download 3GPP & MP3 Videos From A Youtube Playlist
 
 ![alt text](https://github.com/Toxic-Omega/mp-yt-download/blob/main/title.png?raw=true)
 # Features
-- Download MP4 & MP3
+- Download 3GPP & MP3
 - Replace spaces with underscores
 ## Installation
 #### Tested With
