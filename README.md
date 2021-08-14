@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/Toxic-Omega/mp-yt-download/blob/main/title.png?raw=true)
 # Features
-- Download 3GPP & MP3
+- Download MP3
 - Replace spaces with underscores
 ## Installation
 #### Tested With
