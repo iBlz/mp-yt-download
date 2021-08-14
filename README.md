@@ -1,7 +1,6 @@
 # MP Youtube Download
 ## Download MP3 Videos From A Youtube Playlist
 
-![alt text](https://github.com/Toxic-Omega/mp-yt-download/blob/main/title.png?raw=true)
 # Features
 - Download MP3 Songs
 - Replace spaces with underscores
